@@ -7,35 +7,24 @@
 # Отсчет
 
 ## Задание на 4 балла:
-**✔Решение задачи на C**  (3 единицы комплиляции + прием аргументов командной строки для ввода с файла + генерация)
-* [main.c](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/ACS_C_Files/main.c)
-* [task.c](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/ACS_C_Files/task.c)
+**✔[Решение задачи на C](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)**  (3 единицы комплиляции + прием аргументов командной строки для ввода с файла + генерация)
 
-**✔ Не модифицированный код на Assembly с комментариями**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_comments_for_4/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_comments_for_4/task.s)
+**✔ [Не модифицированный код на Assembly с комментариями](https://github.com/ababism/ACS_HW_2/tree/main/Commented_asm)**
 
-**✔ Модифицированный код на Assembly (убраны макросы)**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_4/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_4/task.s)
+**✔ [Модифицированный код на Assembly (убраны макросы)](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
 
-* [Список изменений](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_4/README.md)
+* [Список изменений](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)
 
-**✔ [Тестирование программы (через консоль)](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/Tests.md)**
+**✔ [Тестирование программы](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
 ### Итог:
 
 Все корректно работает, код был откомментрован максильно подробно (сразу на 9 баллов)
 
 ## Задание на 5 баллов:
-**✔ Решение задачи на C *с передачей данных в функции и локальными переменными (было изначально)*** 
-* [main.c](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/ACS_C_Files/main.c)
-* [task.c](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/ACS_C_Files/task.c)
+**✔[Решение задачи на C](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)** 
 
-**✔ Модифицированный код на Assembly с комментариями о передаче параметров в фукнции (были и в прошлом пункте)**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_comments_for_4/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_comments_for_4/task.s)
-
+**✔ [Модифицированный код на Assembly с комментариями о передаче параметров в фукнции (были и в прошлом пункте)](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
  
 ### Итог:
 
@@ -43,15 +32,13 @@
 
 ## Задание на 6 баллов:
 
-**✔ Модифицированный код на Assembly**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/task.s)
+**✔ [Модифицированный код на Assembly](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
 
 
-### [Внесенные изменения](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/README.md):
+### [Внесенные изменения](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm):
 
 
-**✔ [Тестирование программы через консоль и генерацию](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/Tests.md)**
+**✔ [Тестирование программы через консоль и генерацию](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
 ### Итог:
 
@@ -59,27 +46,22 @@
 
 ## Задание на 7 баллов:
 
-**✔ Код на C, содержащий 3 единицы компиляции** 
-* [ACS_C_Files](https://github.com/ababism/ACS_HW_1/tree/main/ACS_HW_1/ACS_C_Files)
+**✔ [Код на C, содержащий 3 единицы компиляции](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)** 
 
-**✔ Модифицированный код на ассемблере, содержащий 3 следующие единицы компиляции**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/task.s)
+**✔ [Модифицированный код на ассемблере, содержащий 3 следующие единицы компиляции](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
 
-**✔ [Тесты с заданием файлов с использованием агументов командной строки](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/Tests.md)**
+
+**✔ [Тесты с заданием файлов с использованием агументов командной строки](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
 ## Задание на 8 баллов:
 
-**✔ Код на C, содержащий генератор случайных значений** 
-* [main.c](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/ACS_C_Files/main.c)
+**✔ [Код на C, содержащий генератор случайных значений](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)** 
 
-**✔ Модифицированный код на ассемблере, содержащий генератор случайных значений и выбор типа ввода**
-* [main.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/main.s)
-* [task.s](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/hw_moded_after_6/task.s)
-* [то же но с комментариями](https://github.com/ababism/ACS_HW_1/tree/main/ACS_HW_1/hw_comments_for_4)
+**✔ [Модифицированный код на ассемблере, содержащий генератор случайных значений и выбор типа ввода](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
+
 
 **✔ Тестирование автоматически сгенерированных данных с замером времени**
-* [Тесты](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/Tests.md)
+* [Тесты](https://github.com/ababism/ACS_HW_2/tree/main/Tests)
 
 
 ### Итог:
@@ -88,4 +70,4 @@
 
 ## Задание на 9 баллов:
 **✔ Отмечено и сделано в тестах**
-* [Тесты](https://github.com/ababism/ACS_HW_1/blob/main/ACS_HW_1/Tests.md)
+* [Тесты](https://github.com/ababism/ACS_HW_2/tree/main/Tests)
