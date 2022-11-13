@@ -22,21 +22,19 @@
 
 ----
 # Modded
+### Все тесты сразу:
+<img width="1174" alt="image" src="https://user-images.githubusercontent.com/111705295/201545298-93a8bfa9-9dbe-4383-b950-ccf2175007ce.png">
+
 ### Тесты:
 1. Manual input
-<img width="856" alt="image" src="https://user-images.githubusercontent.com/111705295/201544935-e563cc99-ef1e-4497-9765-1ebdd848fded.png">
 
 2. File input
-<img width="1066" alt="image" src="https://user-images.githubusercontent.com/111705295/201544956-7c069cb1-bd1f-464c-b3fc-d74e2d0501d7.png">
 
 3. Random generation
-<img width="988" alt="image" src="https://user-images.githubusercontent.com/111705295/201544987-395d23dc-bca8-440d-a84b-6fcb199daf3e.png">
 
 4. Random generation incorrect lenght
-<img width="814" alt="image" src="https://user-images.githubusercontent.com/111705295/201545062-d3a0c75c-517a-4ddc-8a56-6e724d2e3ad4.png">
 
 5. Cmd arg + Timer
-<img width="1053" alt="image" src="https://user-images.githubusercontent.com/111705295/201545106-a784996e-37f3-4e3e-8e64-3032b610d94d.png">
 
  
 
