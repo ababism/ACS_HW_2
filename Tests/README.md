@@ -52,3 +52,7 @@
 | [Программа на C с замером времени](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)  | 19362мс  | 9877мс  | 1874мс  | 17кб  | 115 строк  | 
 | [Программа на ассемблере без модификаций с замером времени](https://github.com/ababism/ACS_HW_2/tree/main/Unmoded_asm)  | 53827мс  | 24826мс  | 2432мс  | 17,4кб  | 453 строк  | 
 | [Программа на ассемблере с модификациями с замером времени](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)  | 46286мс  | 23131мс  | 22730мс  | 17кб  | 407 строк  | 
+> Само проведение тестов
+<img width="1140" alt="image" src="https://user-images.githubusercontent.com/111705295/201547473-0c797e31-4193-4a81-8979-cbadd05e313e.png">
+<img width="1111" alt="image" src="https://user-images.githubusercontent.com/111705295/201547490-62d98d55-47a1-4463-9bab-b01c21a1a4e9.png">
+
