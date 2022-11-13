@@ -33,7 +33,7 @@
 ### char *task_random(int length, char *ch_arr)
 * length: -20
 * ch_arr: -32
-* j: -1
+* j: -4
 
 ### char *task_manual(char *ch_arr)
 * ch_arr: -8
