@@ -40,7 +40,7 @@
 **✔ [Комментарии для регистров и код на Assembly](https://github.com/ababism/ACS_HW_2/tree/main/Commented_asm)**
 
 ### [Внесенные изменения](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)
-После измененений ассмемблер код уменьшился на 453 - 407 = строк
+После измененений ассмемблер код уменьшился на 453 (было суммарно) - 407 (стало) = 46 строк
 
 **✔ [Тестирование программы через консоль и генерацию](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
@@ -54,11 +54,10 @@
 
 **✔ [Модифицированный код на ассемблере, содержащий 3 следующие единицы компиляции](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
 
-
 **✔ [Тесты с заданием файлов с использованием агументов командной строки](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
 **✔ [Файлы для тестов](https://github.com/ababism/ACS_HW_2/tree/main/Files_for_test)**
-** [Проведение тестов с этими файлами]**
+** [Проведение тестов с этими файлами](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
 
 ## Задание на 8 баллов:
