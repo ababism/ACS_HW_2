@@ -27,6 +27,7 @@
 
 ### Тесты:
 1. Manual input
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/111705295/201545405-e50b66dc-6803-48e0-8c92-9a71596252e4.png">
 
 2. File input
 
