@@ -57,6 +57,8 @@
 
 **✔ [Тесты с заданием файлов с использованием агументов командной строки](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
+**✔ [Файлы для тестов](https://github.com/ababism/ACS_HW_2/tree/main/Files_for_test)
+
 ## Задание на 8 баллов:
 
 **✔ [Код на C, содержащий генератор случайных значений](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)** 
