@@ -10,10 +10,11 @@
 **✔[Решение задачи на C](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)**  (3 единицы комплиляции + прием аргументов командной строки для ввода с файла + генерация)
 
 **✔ [Не модифицированный код на Assembly с комментариями](https://github.com/ababism/ACS_HW_2/tree/main/Commented_asm)**
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/111705295/201545529-32bea517-8dd2-4c26-bb94-c271002d2e0a.png">
 
 **✔ [Модифицированный код на Assembly (убраны макросы)](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
 
-* [Список изменений](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)
+** [Список изменений](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)
 
 **✔ [Тестирование программы](https://github.com/ababism/ACS_HW_2/tree/main/Tests)**
 
@@ -24,11 +25,13 @@
 ## Задание на 5 баллов:
 **✔[Решение задачи на C](https://github.com/ababism/ACS_HW_2/tree/main/C_Files)** 
 
-**✔ [Модифицированный код на Assembly с комментариями о передаче параметров в фукнции (были и в прошлом пункте)](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
+**✔ [Модифицированный код на Assembly](https://github.com/ababism/ACS_HW_2/tree/main/Modded_asm)**
+
+**✔ [Комментарии и код на Assembly](https://github.com/ababism/ACS_HW_2/tree/main/Commented_asm)
  
 ### Итог:
 
-Весь код был прокомментирвон, включая передачу параметров в функции (mov регистр для соотвествующего аргумента, значение аргумента).
+Весь код был прокомментирван, включая передачу параметров в функции (mov регистр для соотвествующего аргумента, значение аргумента).
 
 ## Задание на 6 баллов:
 
